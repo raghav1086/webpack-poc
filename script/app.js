@@ -1,2 +1,2 @@
-const mssg = require('./message')
-alert(mssg)
+const showMessage = require('./message')
+alert(showMessage)
